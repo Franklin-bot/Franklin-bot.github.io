@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Franklin-bot.github.io/static/css/main.0d97dc2c.css",
+    "main.js": "/Franklin-bot.github.io/static/js/main.8097fadf.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Franklin-bot.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/attentio.png": "/Franklin-bot.github.io/static/media/attentio.fb6ae2c6e23e93030f0d.png",
+    "static/media/kubernetes.png": "/Franklin-bot.github.io/static/media/kubernetes.3735690919dcf4232dac.png",
+    "static/media/stacked-waves-haikei.svg": "/Franklin-bot.github.io/static/media/stacked-waves-haikei.98668f5640752938a533.svg",
+    "static/media/layered-waves-haikei.svg": "/Franklin-bot.github.io/static/media/layered-waves-haikei.4a97f0c23f92f6138fc6.svg",
+    "index.html": "/Franklin-bot.github.io/index.html",
+    "main.0d97dc2c.css.map": "/Franklin-bot.github.io/static/css/main.0d97dc2c.css.map",
+    "main.8097fadf.js.map": "/Franklin-bot.github.io/static/js/main.8097fadf.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Franklin-bot.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d97dc2c.css",
+    "static/js/main.8097fadf.js"
+  ]
+}

@@ -1,0 +1,34 @@
+.project {
+    font-family: 'Lato';
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-image: url(../assets/stacked-waves-haikei.svg);
+    padding: 1rem;
+    border-radius: 5%;
+    align-items: center;
+}
+
+.projectImage img {
+    width: 100%;
+    height: 100%;
+    max-height: 250px;
+    overflow: hidden;
+    border-radius: 5%;
+    margin: 0px;
+}
+.projectBody{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    color: white;
+    padding: 1rem;
+    text-align: left;
+}
+
+#projectDescription {
+    line-height: 2.5
+}
+

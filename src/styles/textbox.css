@@ -1,0 +1,14 @@
+.textbox {
+    margin: 0px;
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.textboxTitle {
+    text-align: left;
+    margin-bottom: -1rem;
+}
+
+.textboxText {
+    text-align: left;
+}

@@ -1,0 +1,25 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lato';
+    background-image: url(../assets/layered-waves-haikei.svg);
+    background-size: cover;
+    overflow: visible;
+    height: 100%;
+    padding: 0 2rem 2rem 2rem;
+}
+
+.aboutHeader {
+    margin-left: 3rem;
+    text-align: start;
+    font-size: 20px;
+    color: #001220;
+    white-space: nowrap;
+}
+
+.aboutBody{
+    margin-top: 2rem;
+    display: flex;
+    justify-content:space-evenly;
+    gap: 2rem;
+}

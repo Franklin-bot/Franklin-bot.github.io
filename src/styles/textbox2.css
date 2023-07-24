@@ -1,0 +1,16 @@
+.textbox2 {
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 5rem;
+}
+.textbox2Title {
+    text-align: left;
+    max-width: 200px;
+}
+
+.textbox2Text {
+    text-align: left;
+    max-width: 200px;
+}

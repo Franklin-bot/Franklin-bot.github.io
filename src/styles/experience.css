@@ -1,0 +1,27 @@
+.experience {
+    background-color: #001220;
+    font-family: 'Lato';
+    display: flex;
+    justify-content: space-between;
+}
+
+.experienceHeader {
+    margin-left: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: start;
+    font-size: 20px;
+    white-space: nowrap;
+    background-image: linear-gradient(.20turn, #ff4141, #ff8ff1);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.experienceBody {
+    color: white;
+    margin-right: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 5rem;
+}

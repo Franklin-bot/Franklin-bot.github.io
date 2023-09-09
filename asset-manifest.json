@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf056af6.css",
-    "main.js": "/static/js/main.9bd70e56.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/attentio.png": "/static/media/attentio.fb6ae2c6e23e93030f0d.png",
-    "static/media/kubernetes.png": "/static/media/kubernetes.3735690919dcf4232dac.png",
-    "static/media/layered-waves-haikei.svg": "/static/media/layered-waves-haikei.4a97f0c23f92f6138fc6.svg",
-    "index.html": "/index.html",
-    "main.bf056af6.css.map": "/static/css/main.bf056af6.css.map",
-    "main.9bd70e56.js.map": "/static/js/main.9bd70e56.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Franklin-bot.github.io/static/css/main.b89a656c.css",
+    "main.js": "/Franklin-bot.github.io/static/js/main.12f6f112.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Franklin-bot.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/sneakermodel.jpg": "/Franklin-bot.github.io/static/media/sneakermodel.fef6245c424247ee9648.jpg",
+    "static/media/attentio.png": "/Franklin-bot.github.io/static/media/attentio.fb6ae2c6e23e93030f0d.png",
+    "static/media/layered-waves-haikei.svg": "/Franklin-bot.github.io/static/media/layered-waves-haikei.4a97f0c23f92f6138fc6.svg",
+    "index.html": "/Franklin-bot.github.io/index.html",
+    "main.b89a656c.css.map": "/Franklin-bot.github.io/static/css/main.b89a656c.css.map",
+    "main.12f6f112.js.map": "/Franklin-bot.github.io/static/js/main.12f6f112.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Franklin-bot.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf056af6.css",
-    "static/js/main.9bd70e56.js"
+    "static/css/main.b89a656c.css",
+    "static/js/main.12f6f112.js"
   ]
 }

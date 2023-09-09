@@ -1,7 +1,7 @@
 import React from 'react'
 import Project from '../components/Project'
 import attentio from '../assets/attentio.png'
-import sneakermodel from '../assets/sneakermodel.jpg'
+import kubernetes from '../assets/kubernetes.png'
 import '../styles/projects.css'
 
 function Projects() {
@@ -15,7 +15,7 @@ function Projects() {
       <div className='projectsBody'>
         <Project imgURL={attentio} title="Attentio" description="IOS mobile app that employs gamification to enhance productivity by enabling users to engage in
         friendly competition with their peers to achieve the highest productivity. Coded in Swift, released to the App Store August 2021." />
-        <Project imgURL={sneakermodel} title="Image-based Sneaker Price Prediction" description="Machine learning dataset database managed by Kubernetes to ensure scaling and fault tolerance." />
+        <Project imgURL={kubernetes} title="Image-based Sneaker Price Prediction" description="Machine learning dataset database managed by Kubernetes to ensure scaling and fault tolerance." />
       </div>
     </div>
   )

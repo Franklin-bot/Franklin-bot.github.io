@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5bf787cb.css",
-    "main.js": "/static/js/main.c4a2fb9b.js",
+    "main.css": "/static/css/main.bf056af6.css",
+    "main.js": "/static/js/main.9bd70e56.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/attentio.png": "/static/media/attentio.fb6ae2c6e23e93030f0d.png",
     "static/media/kubernetes.png": "/static/media/kubernetes.3735690919dcf4232dac.png",
-    "static/media/stacked-waves-haikei.svg": "/static/media/stacked-waves-haikei.98668f5640752938a533.svg",
     "static/media/layered-waves-haikei.svg": "/static/media/layered-waves-haikei.4a97f0c23f92f6138fc6.svg",
     "index.html": "/index.html",
-    "main.5bf787cb.css.map": "/static/css/main.5bf787cb.css.map",
-    "main.c4a2fb9b.js.map": "/static/js/main.c4a2fb9b.js.map",
+    "main.bf056af6.css.map": "/static/css/main.bf056af6.css.map",
+    "main.9bd70e56.js.map": "/static/js/main.9bd70e56.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bf787cb.css",
-    "static/js/main.c4a2fb9b.js"
+    "static/css/main.bf056af6.css",
+    "static/js/main.9bd70e56.js"
   ]
 }

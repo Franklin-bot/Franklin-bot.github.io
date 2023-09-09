@@ -1,8 +1,0 @@
-# Franklin-bot.github.io
-
-Portfolio website featuring my best work. [Check it out!](https://franklin-bot.github.io/)
-
-- Written in ReactJS
-- Deployed on gh-pages
-
-<sub>_pls no mess with resizing, was too lazy to fix_</sub>

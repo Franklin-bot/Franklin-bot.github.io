@@ -1,7 +1,11 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+<<<<<<< HEAD
   "homepage": "https://Franklin-bot.github.io/",
+=======
+  "homepage": "https://Franklin-bot.github.io/Franklin-bot.github.io/",
+>>>>>>> cb7cfd7 (Configure React app for deployment to GitHub Pages)
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.11.1",

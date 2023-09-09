@@ -40,10 +40,13 @@ body {
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> cb7cfd7 (Configure React app for deployment to GitHub Pages)
 a:link { text-decoration: none;}
 a:visited { text-decoration: none;}
 a:hover { text-decoration: none;}

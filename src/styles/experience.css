@@ -3,6 +3,7 @@
     font-family: 'Lato';
     display: flex;
     justify-content: space-between;
+    overflow:hidden;
 }
 
 .experienceHeader {

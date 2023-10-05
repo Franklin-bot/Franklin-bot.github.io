@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.20c3c1d5.css",
-    "main.js": "/static/js/main.10121d21.js",
+    "main.js": "/static/js/main.543a0e14.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/sneakermodel.jpg": "/static/media/sneakermodel.fef6245c424247ee9648.jpg",
     "static/media/attentio.png": "/static/media/attentio.fb6ae2c6e23e93030f0d.png",
     "static/media/layered_waves.svg": "/static/media/layered_waves.64ff07f0a506abc0ca32.svg",
     "index.html": "/index.html",
     "main.20c3c1d5.css.map": "/static/css/main.20c3c1d5.css.map",
-    "main.10121d21.js.map": "/static/js/main.10121d21.js.map",
+    "main.543a0e14.js.map": "/static/js/main.543a0e14.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20c3c1d5.css",
-    "static/js/main.10121d21.js"
+    "static/js/main.543a0e14.js"
   ]
 }
